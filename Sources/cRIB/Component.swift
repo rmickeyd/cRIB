@@ -26,7 +26,7 @@ import Foundation
 open class Component<DependencyType>: Dependency {
 
     /// The dependency of this `Component`.
-    final let dependency: DependencyType
+    final public let dependency: DependencyType
 
     /// Initializer.
     ///
