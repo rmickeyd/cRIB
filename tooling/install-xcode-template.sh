@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 
 # Configuration
-XCODE_TEMPLATE_DIR=$HOME'/Library/Developer/Xcode/Templates/File Templates/RIBs'
+XCODE_TEMPLATE_DIR=$HOME'/Library/Developer/Xcode/Templates/File Templates/cRIB'
 
 # Copy RIBs file templates into the local RIBs template directory
 xcodeTemplate () {
